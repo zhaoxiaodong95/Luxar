@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arduino()
+comment1.params=
+comment1.target=void\ close()
+comment1.text=\r\n\ This\ should\ be\ called\ when\ you\ stop\ using\ the\ port.\r\n\ This\ will\ prevent\ port\ locking\ on\ platforms\ like\ Linux.\r\n
+comment2.params=oEvent
+comment2.target=void\ serialEvent(gnu.io.SerialPortEvent)
+comment2.text=\r\n\ Handle\ an\ event\ on\ the\ serial\ port.\ Read\ the\ data\ and\ print\ it.\r\n
+comment3.params=data
+comment3.target=void\ write(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ resetPosition()
+numComments=6
